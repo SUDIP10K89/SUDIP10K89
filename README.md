@@ -40,9 +40,8 @@ I'm an enthusiastic programmer, web developer, and tech explorer. I love buildin
 📬 Let's Connect:
 
 <p align="center">
-  <a href="https://linkedin.com/in/yourprofile"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://twitter.com/yourhandle"><img src="https://img.shields.io/badge/-Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white"/></a>
-  <a href="https://yourportfolio.com"><img src="https://img.shields.io/badge/-Portfolio-black?style=for-the-badge&logo=web&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/sudieeip"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://sudipshrestha7.com.np"><img src="https://img.shields.io/badge/-Portfolio-white?style=for-the-badge&logo=web&logoColor=white"/></a>
 </p>
 
 🎵 Fun Projects:
