@@ -33,8 +33,8 @@ I'm an enthusiastic programmer, web developer, and tech explorer. I love buildin
 📊 GitHub Stats:
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sudipshrestha&show_icons=true&theme=radical" alt="GitHub Stats" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sudipshrestha&theme=radical" alt="GitHub Streak" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=SUDIP10K89&show_icons=true&theme=radical" alt="GitHub Stats" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SUDIP10K89&theme=radical" alt="GitHub Streak" width="48%"/>
 </p>
 
 📬 Let's Connect:
