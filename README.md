@@ -46,11 +46,9 @@ I'm an enthusiastic programmer, web developer, and tech explorer. I love buildin
 
 🎵 Fun Projects:
 
-🎶 Lyrify App – A lyrics-finding app with Firebase authentication.
+🕊️Calmora AI - A mental health chat companion.
 
-🎬 Movie Search App – A Vite-based movie search platform.
-
-📅 To-Do App – A full-stack MERN to-do list manager.
+📖 Learn CE - A resource sharing app for Computer Engineering students.
 
 
 🚀 Thanks for visiting! Keep coding and stay awesome! 😊
