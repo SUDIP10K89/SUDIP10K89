@@ -1,55 +1,107 @@
-🌟 Hi there, I'm Sudip Shrestha! 👋
+# Hi there, I'm Sudip Shrestha! 👋
 
-🚀 Passionate Developer from Nepal
+<div align="center">
+  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Backend+Development+Explorer;AI+%26+Tech+Enthusiast;Based+in+Nepal+🇳🇵)](https://git.io/typing-svg)
 
-I'm an enthusiastic programmer, web developer, and tech explorer. I love building impactful web solutions and continuously learning new technologies.
+</div>
 
-🌱 Currently exploring Backend Development & AI
+## 🚀 About Me
 
-🔭 Building a resource sharing engineering app tailored for TU, Nepal.
+I'm a passionate full-stack developer from Nepal, dedicated to crafting impactful web solutions and exploring cutting-edge technologies. My journey in tech is driven by curiosity and a commitment to continuous learning.
 
-🎯 Goal: Creating scalable web applications
+```javascript
+const sudip = {
+  location: "Kathmandu, Nepal 🇳🇵",
+  currentFocus: ["Backend Development", "AI Integration", "Scalable Applications"],
+  currentProject: "Resource sharing app for TU Engineering students",
+  interests: ["Web Development", "AI/ML", "Open Source"],
+  hobbies: ["Drawing 🎨", "Songwriting 🎵", "Task Automation ⚡"],
+  motto: "Code with purpose, learn with passion"
+};
+```
 
-⚡ Fun fact: I enjoy drawing, songwriting, and automating tasks!
+## 🛠️ Tech Stack
 
-
-🛠️ Tech Stack & Tools:
-
-<p align="center"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express.js" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg" alt="Git" width="50" height="50"/>
-  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="50" height="50"/>
+### Frontend
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind" alt="Frontend Technologies" />
 </p>
 
-📊 GitHub Stats:
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SUDIP10K89&show_icons=true&theme=radical" alt="GitHub Stats" width="90%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SUDIP10K89&theme=radical" alt="GitHub Streak" width="90%"/>
+### Backend & Database
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,python,mongodb,mysql,postgresql" alt="Backend Technologies" />
 </p>
 
-📬 Let's Connect:
-
-<p align="center">
-  <a href="https://linkedin.com/in/sudieeip"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://sudipshrestha7.com.np"><img src="https://img.shields.io/badge/-Portfolio-white?style=for-the-badge&logo=web&logoColor=white"/></a>
+### Tools & Others
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker,linux" alt="Tools & Others" />
 </p>
 
-🎵 Fun Projects:
+## 🎯 Current Focus
 
-🕊️Calmora AI - A mental health chat companion.
+- 🔭 **Building:** Resource sharing platform for TU Engineering students
+- 🌱 **Learning:** Advanced backend architectures and AI integration
+- 👯 **Looking to collaborate on:** Open source projects and innovative web applications
+- 💬 **Ask me about:** Full-stack development, JavaScript, Node.js, and web technologies
 
-📖 Learn CE - A resource sharing app for Computer Engineering students.
+## 📈 GitHub Analytics
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SUDIP10K89&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SUDIP10K89&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="180"/>
+</div>
 
-🚀 Thanks for visiting! Keep coding and stay awesome! 😊
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SUDIP10K89&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="70%"/>
+</div>
 
+## 🚀 Featured Projects
+
+<div align="center">
+
+| Project | Description | Tech Stack |
+|---------|-------------|------------|
+| **🕊️ Calmora AI** | Mental health chat companion with AI integration | React, Node.js, AI/ML |
+| **📖 Learn CE** | Resource sharing platform for Computer Engineering students | Full Stack Web Development |
+| **🌐 Portfolio** | Personal portfolio showcasing projects and skills | React, Modern CSS |
+
+</div>
+
+## 🌟 GitHub Contribution Graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SUDIP10K89&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
+</div>
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=SUDIP10K89&theme=tokyonight&no-frame=true&row=1&column=6" alt="GitHub Trophies" />
+</div>
+
+## 📫 Let's Connect
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sudieeip)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=firefox&logoColor=white)](https://sudipshrestha7.com.np)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
+
+</div>
+
+## 💭 Quote
+
+<div align="center">
+  
+*"The best way to predict the future is to create it."* - Peter Drucker
+
+</div>
+
+---
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=SUDIP10K89&color=blue&style=flat-square&label=Profile+Views" alt="Profile Views" />
+  
+  **Thanks for visiting! Happy coding! 🚀**
+</div>
