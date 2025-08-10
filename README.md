@@ -64,7 +64,6 @@ const sudip = {
 |---------|-------------|------------|
 | **🕊️ Calmora AI** | Mental health chat companion with AI integration | React, Node.js, AI/ML |
 | **📖 Learn CE** | Resource sharing platform for Computer Engineering students | Full Stack Web Development |
-| **🌐 Portfolio** | Personal portfolio showcasing projects and skills | React, Modern CSS |
 
 </div>
 
@@ -86,7 +85,7 @@ const sudip = {
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sudieeip)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=firefox&logoColor=white)](https://sudipshrestha7.com.np)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sudip10k89@gmail.com)
 
 </div>
 
