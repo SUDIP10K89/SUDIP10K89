@@ -14,7 +14,7 @@ I'm a passionate full-stack developer from Nepal, dedicated to crafting impactfu
 const sudip = {
   location: "Kathmandu, Nepal 🇳🇵",
   currentFocus: ["Backend Development", "AI Integration", "Scalable Applications"],
-  currentProject: "Resource sharing app for TU Engineering students",
+  currentProject: "AI Course Generator",
   interests: ["Web Development", "AI/ML", "Open Source"],
   hobbies: ["Drawing 🎨", "Songwriting 🎵", "Task Automation ⚡"],
   motto: "Code with purpose, learn with passion"
