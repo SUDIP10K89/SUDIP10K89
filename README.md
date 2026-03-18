@@ -49,7 +49,6 @@ const sudip = {
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=SUDIP10K89&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SUDIP10K89&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="180"/>
 </div>
 
 <div align="center">
