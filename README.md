@@ -53,16 +53,6 @@ const sudip = {
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=SUDIP10K89&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="70%"/>
 </div>
 
-## 🚀 Featured Projects
-
-<div align="center">
-
-| Project | Description | Tech Stack |
-|---------|-------------|------------|
-| **🕊️ Calmora AI** | Mental health chat companion with AI integration | React, Node.js, AI/ML |
-| **📖 Learn CE** | Resource sharing platform for Computer Engineering students | Full Stack Web Development |
-
-</div>
 
 ## 🌟 GitHub Contribution Graph
 
