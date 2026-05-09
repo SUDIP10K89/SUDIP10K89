@@ -18,7 +18,6 @@ class SudipShrestha:
     focus      = ["Multi-agent AI", "RAG pipelines", "Automation"]
     stack      = ["Node.js", "Python", "MongoDB", "OpenAI SDK", "React"]
     building   = ["GitPulse", "AgentGate", "AI Course Architect"]
-    community  = "Code For Change Nepal"
     url        = "sudipshrestha7.com.np"
 
     def current_obsession(self):
