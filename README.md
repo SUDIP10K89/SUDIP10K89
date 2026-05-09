@@ -30,7 +30,6 @@ class SudipShrestha:
 
 | Project | What it does | Stack |
 |---------|-------------|-------|
-| **[AgentGate](https://github.com/SUDIP10K89)** | Mobile PWA intercepting AI agent permission requests via MCP/WebSocket relay | Node.js · PWA · MCP |
 | **[GitPulse](https://github.com/SUDIP10K89)** | GitHub trending digest → scrapes repos → AI-categorized email delivery | Python · MongoDB · OpenAI |
 | **[AI Course Architect](https://github.com/SUDIP10K89)** | Adaptive learning platform with SSE streaming & OpenAI-powered curriculum | MERN · OpenAI · SSE |
 | **[AI Debate Engine](https://github.com/SUDIP10K89)** | 3-agent system (Pro · Con · Judge) with sliding-window memory & Rich terminal UI | Python · OpenAI SDK · AsyncIO |
